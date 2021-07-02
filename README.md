@@ -1,6 +1,6 @@
 ## Another page
 
-Go to [another page](page)
+Go to [another page](pages)
 
 ## Welcome to GitHub Pages
 
