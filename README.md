@@ -1,6 +1,6 @@
 ## Another page
 
-Go to [another page](www.wadworks.space/page)
+Go to [another page](page)
 
 ## Welcome to GitHub Pages
 
