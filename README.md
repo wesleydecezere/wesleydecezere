@@ -69,3 +69,6 @@ Para me aprofundar em algum tópico, consulto as documentações.
 
 > Gerenciador de podcasts desenvolvido durante a NLW5, com ReactJS e uma fake API REST.
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=wesleydecezere&color=lightgrey&style=flat-square&label=Profile+views" alt="Profile views"/>
+</p>
